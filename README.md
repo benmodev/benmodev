@@ -7,21 +7,36 @@
 </a>
 
 <p align="center">
+  <strong><a href="https://benmodev.co/work/xalt#waitlist">Join the Xalt waitlist ↗</a></strong>
+</p>
+
+<p align="center">
   <a href="https://benmodev.co">Portfolio</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="#wider-practice">Wider practice</a> &nbsp; / &nbsp;
   <a href="https://benmodev.co/contact">Contact</a>
 </p>
 
-<br>
+<details>
+<summary><strong>How I work</strong> · Architecture, assumptions and constraints</summary>
 
 ### System Architect of Xalt™
 
 When something is slow, awkward or needlessly complicated, I want to understand why. I follow a problem back to its assumptions, constraints and dependencies, then work through the architecture. My projects span developer tools, AI systems and independent experiments.
 
-<br>
+</details>
 
 ## Selected work
+
+<details>
+<summary>
+  <strong>Xalt · In development · Architecture and current limits</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-summary-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-summary-light.png">
+    <img src="assets/xalt-summary-light.png" width="100%" alt="Xalt. In development. iOS development, from Windows. Fine particles form an exploded assembly.">
+  </picture>
+</summary>
 
 <a href="https://benmodev.co/work/xalt">
   <picture>
@@ -43,8 +58,7 @@ An attempt to build one iOS app on Windows became a development environment. Xal
   <a href="https://benmodev.co/work/xalt">Read the origin and architecture ↗</a>
 </p>
 
-<details>
-<summary>Inside the development loop</summary>
+#### Inside the development loop
 
 - **Iterate on Windows.** A Swift toolchain, local runtime and preview provide the everyday feedback loop.
 - **Coordinate through shared tools.** The IDE, CLI and MCP interface use one operation engine.
@@ -53,9 +67,18 @@ An attempt to build one iOS app on Windows became a development environment. Xal
 
 The local preview is bounded and is not Apple Simulator. Apple build and distribution requirements still apply. Release timing and the open-source licence remain to be announced.
 
+
 </details>
 
-<br>
+<details>
+<summary>
+  <strong>Xalt Agents · Ongoing research · Evidence so far</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-agents-summary-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-agents-summary-light.png">
+    <img src="assets/xalt-agents-summary-light.png" width="100%" alt="Xalt Agents. Research in progress. Swift tests. Apple observations. Fine particles form a printing press.">
+  </picture>
+</summary>
 
 <a href="https://benmodev.co/work/xalt-agents">
   <picture>
@@ -73,22 +96,20 @@ A preview can look convincing and still leave important questions unanswered. Xa
 
 <a href="https://benmodev.co/work/xalt-agents">Explore the research and its current evidence ↗</a>
 
-<details>
-<summary>What the evidence currently establishes</summary>
+#### What the evidence currently establishes
 
 The pipeline has produced compiler evidence and bounded hosted runtime, frame and accessibility observations. Apple reference acquisition remains partial; differential comparison against Xalt has not started. An accepted test is not an overall compatibility score.
 
 Every result stays connected to its exact input. Compiler rejection and an infrastructure failure remain different outcomes.
 
-</details>
 
-<br>
+</details>
 
 ## Wider practice
 
 <p>A few other questions I've followed into software. These projects are closed source and at different stages.</p>
 
-<details open>
+<details>
 <summary><strong>Quorum</strong> &nbsp; / &nbsp; Game intelligence</summary>
 
 Specialist AI analyses share context and preserve the reasoning behind their recommendations. The system checks the analysis context and restores credits when an analysis fails.
@@ -132,8 +153,6 @@ A desktop workspace connecting models, project files and an editor. Local models
 [Explore wider practice ↗](https://benmodev.co/#practice)
 
 </details>
-
-<br>
 
 <a href="https://benmodev.co/#about">
   <picture>
