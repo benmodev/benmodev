@@ -1,8 +1,8 @@
 <a href="https://benmodev.co">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/benmo-hello-world-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/benmo-hello-world-light.png">
-    <img src="assets/benmo-hello-world-light.png" width="100%" alt="Hello World, I am Ben Mo. System Architect of Xalt. I hate inefficiency. Developer tools, AI systems and independent experiments. A titanium ribbon knot formed from floating silver particles.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/benmo-efficiency-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/benmo-efficiency-light.png">
+    <img src="assets/benmo-efficiency-light.png" width="100%" alt="Hello World, I am Ben Mo. I architect systems for efficiency. System Architect of Xalt. Developer tools, AI systems and independent experiments. A titanium ribbon knot formed from floating silver particles.">
   </picture>
 </a>
 
