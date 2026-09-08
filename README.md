@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://benmodev.co">Portfolio</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#wider-practice">Wider practice</a> &nbsp; / &nbsp;
   <a href="https://benmodev.co/contact">Contact</a>
 </p>
 
@@ -102,55 +101,6 @@ The pipeline has produced compiler evidence and bounded hosted runtime, frame an
 
 Every result stays connected to its exact input. Compiler rejection and an infrastructure failure remain different outcomes.
 
-
-</details>
-
-## Wider practice
-
-<p>A few other questions I've followed into software. These projects are closed source and at different stages.</p>
-
-<details>
-<summary><strong>Quorum</strong> &nbsp; / &nbsp; Game intelligence</summary>
-
-Specialist AI analyses share context and preserve the reasoning behind their recommendations. The system checks the analysis context and restores credits when an analysis fails.
-
-[Explore Quorum in the portfolio ↗](https://benmodev.co/#practice)
-
-</details>
-
-<details>
-<summary><strong>Omniagent</strong> &nbsp; / &nbsp; Experimental</summary>
-
-AI work that retains goals, memory and execution state beyond one exchange. The experiment explores continuity across tools and schedules, with approval boundaries around execution.
-
-[Explore wider practice ↗](https://benmodev.co/#practice)
-
-</details>
-
-<details>
-<summary><strong>Nemotron-Bench</strong> &nbsp; / &nbsp; Research</summary>
-
-Model evaluation that also examines the measuring process. Reference solutions and deliberately broken fixtures help investigate whether the test itself can be trusted.
-
-[Explore wider practice ↗](https://benmodev.co/#practice)
-
-</details>
-
-<details>
-<summary><strong>LEA</strong> &nbsp; / &nbsp; Signal Qualification Engine</summary>
-
-A personal tool for researching public discussions, qualifying context and preparing outreach drafts for human judgment. In development.
-
-[Explore wider practice ↗](https://benmodev.co/#practice)
-
-</details>
-
-<details>
-<summary><strong>AYR</strong> &nbsp; / &nbsp; Agent Execution Environment</summary>
-
-A desktop workspace connecting models, project files and an editor. Local models and optional cloud models share a working environment. In development.
-
-[Explore wider practice ↗](https://benmodev.co/#practice)
 
 </details>
 
