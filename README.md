@@ -1,19 +1,11 @@
-<a href="https://benmodev.co">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/benmo-efficiency-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/benmo-efficiency-light.png">
-    <img src="assets/benmo-efficiency-light.png" width="100%" alt="Hello World, I am Ben Mo. I architect systems for efficiency. System Architect of Xalt. Developer tools, AI systems and independent experiments. A titanium ribbon knot formed from floating silver particles.">
-  </picture>
-</a>
+<a href="https://benmodev.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/polish-hero-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/polish-hero-light.png"><img src="assets/polish-hero-light.png" width="100%" alt="Hello World, I am Ben Mo. I architect systems for efficiency. System Architect of Xalt. Developer tools, AI systems and independent experiments. A titanium ribbon knot formed from floating silver particles."></picture></a>
 
 <p align="center">
-  <strong><a href="https://benmodev.co/work/xalt#waitlist">Join the Xalt waitlist ↗</a></strong>
+  <strong><a href="https://benmodev.co/work/xalt#waitlist"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-waitlist-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-waitlist-light.png"><img src="assets/link-waitlist-light.png" width="216" height="40" alt="Join the Xalt waitlist"></picture></a></strong>
 </p>
 
 <p align="center">
-  <a href="https://benmodev.co">Portfolio</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="https://benmodev.co/contact">Contact</a>
+  <a href="https://benmodev.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.png"><img src="assets/link-portfolio-light.png" width="87" height="40" alt="Portfolio"></picture></a> <a href="#selected-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-selected-work-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-selected-work-light.png"><img src="assets/link-selected-work-light.png" width="127" height="40" alt="Selected work"></picture></a> <a href="https://benmodev.co/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-contact-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-contact-light.png"><img src="assets/link-contact-light.png" width="85" height="40" alt="Contact"></picture></a>
 </p>
 
 <details>
@@ -37,13 +29,7 @@ When something is slow, awkward or needlessly complicated, I want to understand 
   </picture>
 </summary>
 
-<a href="https://benmodev.co/work/xalt">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-particles-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-particles-light.png">
-    <img src="assets/xalt-particles-light.png" width="100%" alt="Xalt. iOS development, from Windows. In development. A conceptual assembly of floating layers formed from fine particles.">
-  </picture>
-</a>
+<a href="https://benmodev.co/work/xalt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/xalt-particles-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/xalt-particles-light.png"><img src="assets/xalt-particles-light.png" width="100%" alt="Xalt. iOS development, from Windows. In development. A conceptual assembly of floating layers formed from fine particles."></picture></a>
 
 ### Xalt
 
@@ -52,9 +38,7 @@ An attempt to build one iOS app on Windows became a development environment. Xal
 **In development** · Code private today · Open-source release planned
 
 <p>
-  <strong><a href="https://benmodev.co/work/xalt#waitlist">Join the Xalt waitlist ↗</a></strong>
-  &nbsp; / &nbsp;
-  <a href="https://benmodev.co/work/xalt">Read the origin and architecture ↗</a>
+  <strong><a href="https://benmodev.co/work/xalt#waitlist"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-waitlist-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-waitlist-light.png"><img src="assets/link-waitlist-light.png" width="216" height="40" alt="Join the Xalt waitlist"></picture></a></strong> <a href="https://benmodev.co/work/xalt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-architecture-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-architecture-light.png"><img src="assets/link-architecture-light.png" width="274" height="40" alt="Read the origin and architecture"></picture></a>
 </p>
 
 #### Inside the development loop
@@ -79,13 +63,7 @@ The local preview is bounded and is not Apple Simulator. Apple build and distrib
   </picture>
 </summary>
 
-<a href="https://benmodev.co/work/xalt-agents">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-agents-particles-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-agents-particles-light.png">
-    <img src="assets/xalt-agents-particles-light.png" width="100%" alt="Xalt Agents. Swift tests. Apple observations. Research in progress. A printing press and code sheets formed from floating particles, shown as conceptual artwork.">
-  </picture>
-</a>
+<a href="https://benmodev.co/work/xalt-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/xalt-agents-particles-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/xalt-agents-particles-light.png"><img src="assets/xalt-agents-particles-light.png" width="100%" alt="Xalt Agents. Swift tests. Apple observations. Research in progress. A printing press and code sheets formed from floating particles, shown as conceptual artwork."></picture></a>
 
 ### Xalt Agents
 
@@ -93,7 +71,7 @@ A preview can look convincing and still leave important questions unanswered. Xa
 
 **Ongoing research** · Closed source
 
-<a href="https://benmodev.co/work/xalt-agents">Explore the research and its current evidence ↗</a>
+<a href="https://benmodev.co/work/xalt-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-research-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-research-light.png"><img src="assets/link-research-light.png" width="344" height="40" alt="Explore the research and its current evidence"></picture></a>
 
 #### What the evidence currently establishes
 
@@ -104,16 +82,8 @@ Every result stays connected to its exact input. Compiler rejection and an infra
 
 </details>
 
-<a href="https://benmodev.co/#about">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/working-belief-particles-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/working-belief-particles-light.png">
-    <img src="assets/working-belief-particles-light.png" width="100%" alt="A working belief: Not every experiment needs to become a product. Benmodev.co. Fine particles trace a flowing metallic texture.">
-  </picture>
-</a>
+<a href="https://benmodev.co/#about"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/polish-belief-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/polish-belief-light.png"><img src="assets/polish-belief-light.png" width="100%" alt="A working belief: Not every experiment needs to become a product. https://benmodev.co. Fine particles trace a flowing metallic texture."></picture></a>
 
 <p align="center">
-  <a href="https://benmodev.co">benmodev.co</a> &nbsp; / &nbsp;
-  <a href="https://x.com/benmodev">X</a> &nbsp; / &nbsp;
-  <a href="mailto:hello@benmodev.co">hello@benmodev.co</a>
+  <a href="https://benmodev.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-website-light.png"><img src="assets/link-website-light.png" width="126" height="40" alt="benmodev.co"></picture></a> <a href="https://x.com/benmodev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-x-light.png"><img src="assets/link-x-light.png" width="25" height="40" alt="X"></picture></a> <a href="mailto:hello@benmodev.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/link-email-light.png"><img src="assets/link-email-light.png" width="170" height="40" alt="hello@benmodev.co"></picture></a>
 </p>
