@@ -1,4 +1,10 @@
-<a href="https://benmodev.co"><img src="assets/benmo.png" width="100%" alt="Ben Mo. System Architect of Xalt. I hate inefficiency. Developer tools, AI systems and independent experiments. Brushed titanium knot on black."></a>
+<a href="https://benmodev.co">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/benmo-particles-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/benmo-particles-light.png">
+    <img src="assets/benmo-particles-light.png" width="100%" alt="Ben Mo. System Architect of Xalt. I hate inefficiency. Developer tools, AI systems and independent experiments. A titanium ribbon knot formed from floating silver particles.">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://benmodev.co">Portfolio</a> &nbsp; / &nbsp;
@@ -17,7 +23,13 @@ When something is slow, awkward or needlessly complicated, I want to understand 
 
 ## Selected work
 
-<a href="https://benmodev.co/work/xalt"><img src="assets/xalt.png" width="100%" alt="Xalt. iOS development, from Windows. In development. A conceptual assembly of graphite layers separated by a silver seam."></a>
+<a href="https://benmodev.co/work/xalt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-particles-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-particles-light.png">
+    <img src="assets/xalt-particles-light.png" width="100%" alt="Xalt. iOS development, from Windows. In development. A conceptual assembly of floating layers formed from fine particles.">
+  </picture>
+</a>
 
 ### Xalt
 
@@ -25,7 +37,11 @@ An attempt to build one iOS app on Windows became a development environment. Xal
 
 **In development** · Code private today · Open-source release planned
 
-<a href="https://benmodev.co/work/xalt">Read the origin and architecture ↗</a>
+<p>
+  <strong><a href="https://benmodev.co/work/xalt#waitlist">Join the Xalt waitlist ↗</a></strong>
+  &nbsp; / &nbsp;
+  <a href="https://benmodev.co/work/xalt">Read the origin and architecture ↗</a>
+</p>
 
 <details>
 <summary>Inside the development loop</summary>
@@ -41,7 +57,13 @@ The local preview is bounded and is not Apple Simulator. Apple build and distrib
 
 <br>
 
-<a href="https://benmodev.co/work/xalt-agents"><img src="assets/xalt-agents.png" width="100%" alt="Xalt Agents. Swift tests. Apple observations. Research in progress. Matte-black sheets carrying SwiftUI probes on a graphite printing press, shown as conceptual artwork."></a>
+<a href="https://benmodev.co/work/xalt-agents">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/xalt-agents-particles-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/xalt-agents-particles-light.png">
+    <img src="assets/xalt-agents-particles-light.png" width="100%" alt="Xalt Agents. Swift tests. Apple observations. Research in progress. A printing press and code sheets formed from floating particles, shown as conceptual artwork.">
+  </picture>
+</a>
 
 ### Xalt Agents
 
@@ -113,7 +135,13 @@ A desktop workspace connecting models, project files and an editor. Local models
 
 <br>
 
-<a href="https://benmodev.co/#about"><img src="assets/working-belief.png" width="100%" alt="A working belief: Not every experiment needs to become a product. Benmodev.co."></a>
+<a href="https://benmodev.co/#about">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/working-belief-particles-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/working-belief-particles-light.png">
+    <img src="assets/working-belief-particles-light.png" width="100%" alt="A working belief: Not every experiment needs to become a product. Benmodev.co. Fine particles trace a flowing metallic texture.">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://benmodev.co">benmodev.co</a> &nbsp; / &nbsp;
